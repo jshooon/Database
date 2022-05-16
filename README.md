@@ -1,5 +1,6 @@
 # Database 정규수업
 
+OS : Windows 10
 Languages : SQL   
 Database : MySQL   
 Tools : MySQL Workbench   
